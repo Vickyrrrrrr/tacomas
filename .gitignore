@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+synthetic_data/
+*.jsonl
+/tmp/
